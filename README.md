@@ -220,3 +220,10 @@ string &operator+(const string& A,const string& B) //cpp
 | ------------- | ----------- |  
 | Help      | ~~Display the~~ help window.|  
 | Close     | _Closes_ a window   
+  
+#### 表格中嵌入图片(链接)  
+其实前面介绍图片显示、图片链接的时候为了清晰就是放在在表格中显示的。  
+  
+| 图片 | 描述 |  
+| ---- | ---- |  
+|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo") | 百度|  
