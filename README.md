@@ -44,7 +44,7 @@ ___粗斜体 2___
 |---|----|:---:|  
 |1|`[![weibo-logo]](http://weibo.com/linpiaochen)`|[![weibo-logo]](http://weibo.com/linpiaochen)|  
 |2|`[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]`|[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]|  
-|3|`[![csdn-logo]][csdn]`|[![csdn-logo]][csdn]|  
+|3|`[![csdn-logo]][csdn]`|[![](/img/csdn.png "我的csdn,欢迎关注!")[csdn]|  
   
 因为图片本身和链接本身都支持URL标识符的形式，所以图片链接也可以很简洁（见例3）。  
 注意，此时鼠标悬停时显示的文字是图片的title，而非链接本身的title了。  
