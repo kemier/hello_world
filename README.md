@@ -12,5 +12,13 @@ ___粗斜体 2___
 **~~粗斜体删除线1~~**  
 ~~***粗斜体删除线2***~~  
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
+
+链接
+------
+### 链接外部URL  
+
+|#|语法|效果|  
+|---|----|-----|  
 |1|`[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")`|[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")|  
 |2|`[我的知乎][zhihu] `|[我的知乎][zhihu] |  
+
