@@ -211,3 +211,12 @@ string &operator+(const string& A,const string& B) //cpp
 | col 3 is      | some wordy text | $1600 |  
 | col 2 is      | centered        |   $12 |  
 | zebra stripes | are neat        |    $1 |  
+  
+### 混合其他语法  
+表格单元中的内容可以和其他大多数GFM语法配合使用，如：  
+#### 使用普通文本的删除线，斜体等效果  
+  
+| 名字 | 描述 |  
+| ------------- | ----------- |  
+| Help      | ~~Display the~~ help window.|  
+| Close     | _Closes_ a window   
