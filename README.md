@@ -189,3 +189,25 @@ document.getElementById("myH1").innerHTML="Welcome to my Homepage"; //javascipt
 ```cpp
 string &operator+(const string& A,const string& B) //cpp
 ```
+  
+表格  
+--------  
+  
+表头1  | 表头2|  
+--------- | --------|  
+表格单元  | 表格单元 |  
+表格单元  | 表格单元 |  
+  
+| 表头1  | 表头2|  
+| ---------- | -----------|  
+| 表格单元   | 表格单元   |  
+| 表格单元   | 表格单元   |  
+  
+### 对齐  
+表格可以指定对齐方式  
+
+| 左对齐 | 居中  | 右对齐 |  
+| :------------ |:---------------:| -----:|  
+| col 3 is      | some wordy text | $1600 |  
+| col 2 is      | centered        |   $12 |  
+| zebra stripes | are neat        |    $1 |  
